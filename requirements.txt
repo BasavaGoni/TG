@@ -1,6 +1,2 @@
-langchain
-langchain-openai
-langchain-google-genai
 streamlit
-langchain-google-genai
 google-generativeai
